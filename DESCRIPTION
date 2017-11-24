@@ -1,0 +1,11 @@
+Package: comissioncalc
+Title: Comission calculator
+Version: 0.0.0.9000
+Authors@R: person("Richard", "Case", email = "richard.case@outlook.com", role = c("aut", "cre"))
+Description: Used to to calculate the sales and treatment comissions due based on a months sales and targets.
+Depends: R (>= 3.4.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+RoxygenNote: 6.0.1
